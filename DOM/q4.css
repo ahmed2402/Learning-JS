@@ -1,0 +1,12 @@
+.para {
+    background-color: brown;
+    color: black;
+}
+
+.newpara {
+    border: 1px solid black;
+    border-radius: 25%;
+    height: 50px;
+    width: 80px;
+    text-align: center;
+}
