@@ -8,4 +8,10 @@ const profile = {
     description: "NED'28 | CSIT",
 };
 
-console.log(typeof profile.isFollow);
+console.log(typeof profile);
+
+
+console.log(!!"Hello"); // true
+console.log(!!0);       // false
+
+

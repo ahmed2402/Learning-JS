@@ -2,7 +2,7 @@
 // Use the reduce method to calculate sum of all numbers in the array.
 // Use the reduce method to calculate product of all numbers in the array.
 
-let input = prompt("enter number");
+let input = 10;
 
 let arr = [];
 let j=0
